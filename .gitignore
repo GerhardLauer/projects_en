@@ -1,1 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
+Gemfile.lock
+_site
+HOW_TO_RELEASE.md
